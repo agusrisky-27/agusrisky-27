@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Agus Risky</h2>
-<p align="center">IT Student at ITB STIKOM Bali · Flutter & PHP Developer · Bali, Indonesia</p>
+<p align="center">Information Technology Student at ITB STIKOM Bali · WEB DEV & MOBILE APP DEV · Bali, Indonesia</p>
 
 <br/>
 
@@ -11,3 +11,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=agusrisky-27&theme=tokyonight&hide_border=true"/>
 </p>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true)
