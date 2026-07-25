@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Agus+Risky+%F0%9F%91%8B;Flutter+%26+PHP+Developer;IT+Student+%40+ITB+STIKOM+Bali;Building+cool+things+from+Bali+%F0%9F%8C%8A)](https://git.io/typing-svg)
 
-<!-- Banner wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=header&text=&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=header"/>
 
 </div>
 
@@ -72,7 +70,7 @@ class AgusRisky {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=agusrisky-27&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=agusrisky-27&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
 
 <div align="center">
@@ -81,12 +79,14 @@ class AgusRisky {
 
 ---
 
-## 🎮 Pac-Man eats my contributions!
+## 🎮 Snake eats my contributions!
 
 <div align="center">
-
-![Pac-Man](https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-snake.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
@@ -105,7 +105,7 @@ class AgusRisky {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agusrisky-27&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=agusrisky-27&theme=tokyonight&no-frame=true&margin-w=15&column=7" width="100%"/>
 </div>
 
 ---
@@ -126,7 +126,6 @@ class AgusRisky {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agusrisky-27&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer"/>
 
 </div>
