@@ -89,8 +89,6 @@ class AgusRisky {
 
 </div>
 
-> ⚠️ Animasi Pac-Man/Snake muncul setelah kamu setup GitHub Actions di bawah
-
 ---
 
 ## 🚀 Featured Projects
