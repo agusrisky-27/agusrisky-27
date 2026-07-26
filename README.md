@@ -93,7 +93,7 @@ IT Student at ITB STIKOM Bali, Semester 4. I build mobile apps with Flutter and 
 ### 🎮 Pac-Man eats my contributions!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-snake.svg" />
-  <img alt="pac-man animation" src="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-pacman.svg" />
+  <img alt="pac-man animation" src="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-pacman.svg" />
 </picture>
