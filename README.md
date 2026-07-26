@@ -79,10 +79,7 @@ IT Student at ITB STIKOM Bali, Semester 4. I build mobile apps with Flutter and 
 
 ### 📊 My GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=agusrisky-27&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrisky-27&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" height="165" />
-</p>
+
 
 <p align="left">
 <img src="https://streak-stats.demolab.com/?user=agusrisky-27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
@@ -93,7 +90,7 @@ IT Student at ITB STIKOM Bali, Semester 4. I build mobile apps with Flutter and 
 ### 🎮 Pac-Man eats my contributions!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-pacman.svg" />
-  <img alt="pac-man animation" src="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-snake.svg" />
+  <img alt="pac-man animation" src="https://raw.githubusercontent.com/agusrisky-27/agusrisky-27/output/github-contribution-grid-snake.svg" />
 </picture>
