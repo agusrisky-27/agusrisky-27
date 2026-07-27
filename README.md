@@ -3,15 +3,16 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 
 ### Junior WEB DEV & MOBILE APP DEV
 
-IT Student at ITB STIKOM Bali, Semester 4. I build mobile apps with Flutter and web apps with PHP & Laravel. Based in Bali, Indonesia 🌴
+IT Student at ITB STIKOM Bali, Semester 4. Passionate about building modern web and mobile applications with Flutter, PHP, and Laravel. Always learning new technologies and creating digital solutions that are useful, scalable, and user-friendly.
 
-* 🌍 I'm based in Tabanan, Bali, Indonesia
-* 🖥️ See my portfolio at [My Portfolio](https://portofolio-agus-risky.vercel.app)
-* ✉️ You can contact me at [agisriskir@gmail.com](mailto:agisriskir@gmail.com)
-* 🚀 I'm currently working on [My Projects](https://github.com/agusrisky-27)
-* 🧠 I'm currently learning Cloud Computing & System Architecture
-* 👥 I'm open to collaborating on Flutter & Laravel projects
-* 💬 I'm passionate about continuous learning and building meaningful digital solutions.
+- 🌍 Based in Tabanan, Bali, Indonesia
+- 🌐 Portfolio: [portofolio-agus-risky.vercel.app](https://portofolio-agus-risky.vercel.app)
+- 📧 Email: [agisriskir@gmail.com](mailto:agisriskir@gmail.com)
+- 💻 GitHub: [github.com/agusrisky-27](https://github.com/agusrisky-27)
+- 🚀 Currently building personal and academic full-stack projects
+- ☁️ Currently learning Cloud Computing, System Architecture & Laravel
+- 🤝 Open to collaboration on Flutter, Laravel, and Full-Stack Web Development
+- 📚 Always exploring new technologies and improving my software engineering skills.
 
 ---
 
